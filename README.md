@@ -2,7 +2,7 @@
 
 All DSS cards drop on 1st kill.
 
-All card effects are shown as soon as you optain the card.
+All card effects are shown as soon as you obtain the card.
 
 US difficulty reduced back to Japanese difficulty.
 
